@@ -78,13 +78,6 @@ Simulador de provedor de internet.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
 </p>
 
-
----
-
-# 🎯 Objetivo
-
-Este portfólio foi desenvolvido para apresentar meus projetos, demonstrar minha evolução como desenvolvedor e servir como **vitrine das tecnologias que utilizo no desenvolvimento de aplicações web e sistemas**.
-
 # 📫 Contato
 
 📧 **Email:** [matmarques221@gmail.com](mailto:matmarques221@gmail.com)
