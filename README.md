@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Matheus Marques
 
-💻 **Desenvolvedor Full Stack Web & Game Developer**
+💻 **Desenvolvedor Full Stack Web & Game Developer**.
+
 🚀 Apaixonado por tecnologia, criação de sistemas e desenvolvimento de jogos.
 
 ---
