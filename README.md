@@ -78,37 +78,6 @@ Simulador de provedor de internet.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
 </p>
 
----
-
-# 📂 Projetos Web
-
-### 📊 NOC Dashboard
-
-Painel de monitoramento de rede para visualização do **status de equipamentos e alertas operacionais**.
-
-### 🏢 Intranet Acessanet
-
-Sistema interno desenvolvido para **centralizar ferramentas, sistemas e informações da empresa**.
-
-### 🔐 Área do Cliente – Projecta
-
-Plataforma web segura para acesso de clientes a **informações e serviços da empresa**.
-
-### 📶 Hotspot Portal
-
-Portal de autenticação Wi-Fi com **página personalizada para acesso à rede**.
-
-### 💆 Site Sibcare
-
-Website institucional para **clínica de estética**.
-
-### 🌐 Site Acessanet
-
-Website institucional para **provedora de internet**.
-
-### 🚚 Site Tico Carretos
-
-Website institucional para **empresa de transporte e carretos**.
 
 ---
 
