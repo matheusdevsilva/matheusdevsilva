@@ -138,6 +138,7 @@ Desenvolvo projetos com foco em:
 ![Firewall](https://img.shields.io/badge/Firewall%20%2F%20iptables-E34F26?style=flat&logo=linux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-5C6BC0?style=flat&logo=wireguard&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-pm2?style=flat&logo=pm2&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-CC0000?style=flat&logo=linux&logoColor=white)
 ![FTP](https://img.shields.io/badge/FTP%20%2F%20SFTP-006400?style=flat&logo=filezilla&logoColor=white)
 ![Proxy](https://img.shields.io/badge/Proxy%20%2F%20Squid-FF6600?style=flat&logo=linux&logoColor=white)
@@ -191,31 +192,12 @@ Conhecimento em análise de redes, reconhecimento de hosts, auditoria de redes W
 
 ## 🗂️ Projetos em Destaque
 
-<div align="center">
-
-[![Internet Tycoon](https://github-readme-stats.vercel.app/api/pin/?username=matheusdevsilva&repo=internet-tycoon&theme=dark&hide_border=true)](https://github.com/matheusdevsilva/internet-tycoon)
-[![Agenda Técnica](https://github-readme-stats.vercel.app/api/pin/?username=matheusdevsilva&repo=Agenda-Tecnica&theme=dark&hide_border=true)](https://github.com/matheusdevsilva/Agenda-Tecnica)
-
-</div>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🎮 [Internet Tycoon – ISP Simulator](https://github.com/matheusdevsilva/internet-tycoon) | Simulador de provedor de internet com mecânicas de gestão e multiplayer | Godot, GDScript, C++ |
 | 📋 [Agenda Técnica – Acessanet](https://github.com/matheusdevsilva/Agenda-Tecnica) | Sistema para gerenciar horários, clientes e status das ordens de serviço da equipe técnica | Node.js, JavaScript, MySQL |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusdevsilva&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdevsilva&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusdevsilva&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
