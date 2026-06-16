@@ -90,6 +90,7 @@ Desenvolvo projetos com foco em:
 - Modelagem e animação 3D com Blender
 
 > 🎮 **Internet Tycoon – ISP Simulator** — Simulador de provedor de internet.
+> 🎮 **Fear of Insanty** — Uma experiência de terror psicológico multijogador desenvolvida com o motor gráfico Godot.
 
 ---
 
